@@ -1,3 +1,2 @@
 This is my new git changes.
-CHanging after pushing for first time in Dev branch with latest change.
-Changes done on 20250922.
+CHanging after pushing for first time in Dev branch.
